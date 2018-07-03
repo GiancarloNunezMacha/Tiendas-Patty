@@ -1,0 +1,2 @@
+I:\proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+H:\proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
